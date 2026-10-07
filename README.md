@@ -47,4 +47,4 @@ This is a personal project in its early stages. Suggestions and ideas are welcom
 
 ## 📜 License
 
-License to be added.
+License to be added
